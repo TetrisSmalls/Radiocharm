@@ -17,4 +17,4 @@ $(document).ready(function(){
 Dependencies
 -----------
 
-[Font Awesome]: http://fontawesome.io
+[Font Awesome](http://fontawesome.io)
