@@ -1,5 +1,16 @@
 # Radiocharm
-Lightweight jQuery plugin that gives charm to radio boxes and allows custom labels, icons, and ability to un-check selection by clicking again on the selected radio box.
+A lightweight jQuery plugin that gives charm to radio boxes and allows custom labels, icons, and ability to un-check selection by clicking again on the selected radio box.
+
+## Demo / Examples
+
+Placeholder for a link to demo / examples.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id mauris vitae ligula ultrices scelerisque. Nunc at gravida dui. Morbi dapibus pretium efficitur. Nunc tempus aliquet pulvinar. In vel elit id mauris eleifend pulvinar. Suspendisse convallis nec tellus at hendrerit. Quisque aliquet odio nulla, ut porttitor metus iaculis eu.
+
+[Radiocharm Demo / Examples](http://www.site.com/radiocharm)
+
+* [Default Implementation](http://www.site.com/radiocharm#default_implementation)
+* [Background Color Implementation](http://www.site.com/radiocharm#background_color_implementation)
+* [Icon Implementation](http://www.site.com/radiocharm#icon_implementation)
+* [Uncheckable Implementation](http://www.site.com/radiocharm#uncheckable_implementation)
 
 ## Usage
 
@@ -57,19 +68,12 @@ $(document).ready(function(){
 });
 ~~~
 
-
-
-
-
-
-
-
-
-
-
 ## Dependencies
 
 [Font Awesome](http://fontawesome.io)
+
+Font Awesome gives you scalable vector icons that can instantly be customized - size, color, drop shadow, and anything that can be done with the power of CSS.
+
 ~~~ html
 <link href=https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet" />
 ~~~
