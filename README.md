@@ -3,8 +3,6 @@ A lightweight jQuery plugin that gives charm to radio boxes and allows custom la
 
 ## Demo / Examples
 
-Placeholder for a link to demo / examples.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id mauris vitae ligula ultrices scelerisque. Nunc at gravida dui. Morbi dapibus pretium efficitur. Nunc tempus aliquet pulvinar. In vel elit id mauris eleifend pulvinar. Suspendisse convallis nec tellus at hendrerit. Quisque aliquet odio nulla, ut porttitor metus iaculis eu.
-
 [Radiocharm Demo / Examples](https://coynem.com/radiocharm/)
 
 * [Default Implementation](https://coynem.com/radiocharm/#default_implementation)
